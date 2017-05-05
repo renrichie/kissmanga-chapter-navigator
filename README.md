@@ -1,5 +1,7 @@
 # kissmanga-chapter-navigator
 Makes manga chapters on KissManga navigable using the left and right arrow keys
+The XPI in the repository has been signed and can be manually installed with no problems.
+It is a WebExtension, so it requires Firefox version 45 or later.
 
 How to use
 -----------
